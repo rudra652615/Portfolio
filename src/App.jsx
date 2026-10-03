@@ -133,7 +133,6 @@ function App() {
       <section id="home" className="hero section-pad">
         <div className="hero-grid" aria-hidden="true"></div>
         <div className="hero-content reveal">
-          <p className="eyebrow"><span className="status-dot"></span>{profile.eyebrow}</p>
           <h1 className="hero-title"><span className="hero-greeting">Hi, I'm </span><span className="gradient-text">{profile.name}</span></h1>
           <h2 className="hero-headline">Cybersecurity &amp; Risk Intelligence</h2>
           <p className="hero-subheading">{profile.subheading}</p>
