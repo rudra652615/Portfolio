@@ -3,7 +3,6 @@ export const profile = {
   pronouns: "He/Him",
   location: "Delhi, India",
   headline: "Cybersecurity & Risk Intelligence | Building Security Simulations & Tools | Python • C • Web Security | BCA Student",
-  eyebrow: "CYBERSECURITY & RISK INTELLIGENCE",
   subheading: "Building Security Simulations & Tools",
   summary: "BCA student exploring cybersecurity through building, experimentation and problem-solving. I'm interested in how security risks are identified, analyzed and turned into decisions.",
   badges: ["Python", "C", "Web Security", "Ethical Hacking", "Risk Intelligence"],
